@@ -23,7 +23,8 @@ You need the Microsoft Visual C++ Runtime installed on the build machine.  The n
 For installed python:
 1. Type the build command (below)
 
-### If running from WinPython 3.4 Zero (https://sourceforge.net/projects/winpython/files/WinPython_3.4/3.4.4.6/)
+### If running from WinPython 3.4 Zero 
+(https://sourceforge.net/projects/winpython/files/WinPython_3.4/3.4.4.6/)
 
 1. Open the winpython folder.  
 2. Start the command prompt from the WinPython folder shortcut "WinPython Command Prompt.exe"
