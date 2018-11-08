@@ -9,8 +9,11 @@
 ### SSRS Batch
 
 # Overview
-This script takes in a configuration file and username/password to download a bunch of ssrs files to a shared location
+This script takes in a configuration file and username/password to download reports from SQL Reporting Services to a shared location
 
+This project came about because I often have people ask me for a bunch of reports.  Rather than run each one by hand, which involves a lot of clicking, I created this script to iterate through a list of parameters and run the reports for me.  
+
+# How to Use
 ## To run this script:
 python ssrs_batch.py [username] [optional: config file] [optional: password]
 
@@ -31,5 +34,6 @@ For installed python:
 3. Type the build command (below) 
 
 ### Build command:
+To build this project into an Executable (.exe)
 
 python setup.py build
